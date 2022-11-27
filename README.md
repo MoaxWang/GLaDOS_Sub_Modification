@@ -5,3 +5,8 @@ A python file which can modify the configuration file from GLaDOS subscription l
      url = 'ubscription address'
 
 Original configuration file would save in the same folder as original.yaml, and modified file would save as config.yaml.
+
+#### Pre-requirements:
+~~~
+pip install -r requirements.txt
+~~~
