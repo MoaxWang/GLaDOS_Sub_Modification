@@ -136,6 +136,6 @@ def main(url):
     except:
         logger.warning("Fail to download file from subscription link!")
 
-url = 'http://'
+url = 'http://sub_link_from_glados_terminal'
 logger = log_sys()
 main(url)
